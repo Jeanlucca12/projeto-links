@@ -7,6 +7,5 @@ function toggleMode() {
   //} else {
    // html.classList.add('light')
   //}
-  ''
-
+  
 }
