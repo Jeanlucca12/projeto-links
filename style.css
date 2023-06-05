@@ -162,11 +162,11 @@ footer {
 /* media queries */
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/bg-desktop-dark.jpg);
+    --bg-url: url(./assets/bg-desktop-blue2.jpg);
   }
 
   .light {
-    --bg-url: url(./assets/bg-desktop-light.jpg);
+    --bg-url: url(./assets/bg-desktop-blue1.jpg);
   }
 }
 
